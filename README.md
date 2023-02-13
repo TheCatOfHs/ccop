@@ -9,19 +9,11 @@ CCOP combines graph neural network and reinforcement learning to accelerate the 
 Please cite the following work if you want to use CCOP.
 
 ```
-@article{XXX,
-  title = {Graph deep learning accelerated efficient crystal structure search and feature extraction},
-  author = {Li, Chuannan and Liang, Hanpu and Zhang, Xie and Lin, Zijing and Wei, Su-Huai},
-  journal = {XXX},
-  volume = {XXX},
-  issue = {XXX},
-  pages = {XXX},
-  numpages = {XXX},
-  year = {XXX},
-  month = {XXX},
-  publisher = {XXX},
-  doi = {XXX},
-  url = {XXX}
+@article{CCOP,
+    title = {Machine-Learning Accelerated Annealing with Fitting-Search Style for Multi-alloy Structure Predictions},
+    author = {Chuannan Li, Hanpu Liang, Yifeng Duan, Zijing Lin},
+    journal={arXiv preprint arXiv:2302.03321},
+    year={2023}
 }
 ```
 
